@@ -1,0 +1,26 @@
+.button-container {
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 180px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+}
+.button-container span {
+    position: absolute;
+}
+.button-text-top {
+    top: 17.08px;
+    left: 55.14px;
+    font-size: 8.15px;
+    border: 0.16px solid white;
+}
+.button-text-bottom {
+    top: 44.3px;
+    left: 54.72px;
+    font-size: 22.14px;
+}
